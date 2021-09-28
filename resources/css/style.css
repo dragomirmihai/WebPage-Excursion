@@ -20,10 +20,6 @@ p{
     color: gray;
     font-size: 21px;
 }
-.copy{
-    color: gray;
-    text-align: right;
-}
 
 .download{
     color: aquamarine;
@@ -34,4 +30,8 @@ p{
 }
 .logo{
     margin-top: 25px;
+}
+.footer p{
+    color: gray;
+    text-align: right;
 }
